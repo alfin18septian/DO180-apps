@@ -14,7 +14,7 @@
 
   "dependencies": {
 
-    "express": "4.x",
+    "express": "4.19",
 
     "html-errors": "latest"
 
